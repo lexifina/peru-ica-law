@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 0003-2009-GORE-ICA
+Ica, 17 de febrero de 2009
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria de fecha 13 de febrero del 2009;
+Ha dado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, los Artículos 191º y 192º de la Constitución Política del Estado, especifica que los Gobiernos Regionales gozan de autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, conforme al artículo 5º de la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales”, es misión de los Gobiernos Regionales organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas, en el marco de las políticas Nacionales y Sectoriales, para contribuir al desarrollo integral y sostenible de la región.
+Que, el Art. 10º de la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales”, señala en el numeral 1. Son competencias exclusivas del Gobierno Regional, literal a) Planificar el desarrollo integral de su Región y ejecutar los programas socio-económicos correspondientes, en armonía con el Plan Nacional de Desarrollo, literal b) Formular y Aprobar el Plan de Desarrollo Regional Concertado con las Municipalidades y la Sociedad Civil de su región y; numeral 2. Son competencias compartidas del Gobierno Regional, literal
+h) Participación Ciudadana, alentando la concertación entre los intereses públicos y privados en todos los niveles;
+Que, de acuerdo a lo establecido en la Ley Nº 28056 “Ley Marco del Presupuesto Participativo”, Decreto Supremo Nº 171-2003-EF, que aprueba su Reglamento, Instructivo Nº 002-2008-EF/76.01 “Instructivo para el Proceso del Presupuesto Participativo” aprobado mediante la Resolución Directoral Nº 021-2008-EF/76.01, Ley Nº 27293 “Ley del Sistema Nacional de Inversión Pública”, Ley Nº 29298 “Ley que modifica la Ley Nº 28056, Ley Marco del Presupuesto Participativo”, Comunicado Nº 026-2008-EF/76,01 “A los Gobiernos Regionales y Gobiernos Locales: Inicio del Presupuesto Participativo correspondiente al año 2010” y demás disposiciones complementarias y modificatorias; es pertinente oficializar el inicio del mencionado Proceso mediante Ordenanza Regional, aprobar su reglamentación y disponer la implementación de la identificación e inscripción de los Agentes Participantes en el Proceso;
+De conformidad con la Ley Nº 27783 “Ley de Bases de la Descentralización”, Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales” y su modificatoria Ley Nº 27902, que regula la participación de los Alcaldes Provinciales y la Sociedad Civil en los Gobiernos Regionales, así como el fortalecimiento del proceso de Descentralización y Regionalización y la Ley Nº 28968 “Ley que modifica el numeral L) del Artículo 21º y la Undécima Disposición Transitoria, Complementaria y Final de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales;
+Que, en uso de las atribuciones que le confiere la Ley, al Consejo Regional;
+Ha dado la Ordenanza Regional siguiente:

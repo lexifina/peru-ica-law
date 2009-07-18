@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 0006-2009-GORE-ICA
+Ica, 24 de junio de 2009
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria de fecha 10 de junio del 2009.
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Estado, prescribe que los Gobiernos Regionales, gozan de autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, el artículo 38º de la Ley N° 27867 “Ley Orgánica de Gobiernos Regionales”, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materia de su competencia;
+Que, el artículo 15º del Decreto Supremo No. 043-2004-PCM, precisa los lineamientos para la elaboración y aprobación del Cuadro de Asignación de Personal de las Direcciones Regionales Sectoriales, se aprueban mediante Ordenanza Regional;
+Que, con Oficio No. 1196-2009-GORE-ICA/PR, la Presidencia Regional de Ica, remite al Consejo Regional, el Proyecto de Modificación del Cuadro de Asignación Personal – CAP de la Red de Salud de Ica-Palpa-Nazca, para su aprobación en la Sesión de Consejo Regional; adjuntando el Informe No. 056-2009-SGDS, evaluado por la Sub Gerencia de Desarrollo Sistémico del Gobierno Regional, el mismo que contiene opinión favorable para su aprobación; así también cuenta con Informe No. 129-2009-OGPP-OO/ MINSA, evaluado por la Oficina General de Planeamiento y Presupuesto del Ministerio de Salud, que contiene opinión favorable para su aprobación y el Oficio No. 232-2009-GORE-ICA/GGR-GRPPAT, con el cual el Gerente General Regional, remite el expediente y el sustento técnico legal de la propuesta de modificación del CAP de la Red de Salud de Ica-Palpa-Nazca, al Ministerio de Salud; es así que de la evaluación del expediente, se desprende que el Proyecto de Modificación se ha efectuado dentro de las especificaciones y lineamientos establecidos por el D.S. No. 043-2004-PCM, por lo que es pertinente su aprobación mediante Ordenanza Regional por el Consejo Regional de Ica;
+Que, estando a lo acordado y aprobado por el Pleno del Consejo Regional en la Sesión Ordinaria de fecha 10 de mayo del 2009, y de conformidad con las facultades y atribuciones conferidas por la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales” y su modificatoria Ley Nº 27902;
+Ha dado la Ordenanza Regional siguiente:

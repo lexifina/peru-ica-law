@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 0007-2009-GORE-ICA
+Ica, 24 de junio de 2009
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria de fecha 10 de junio del 2009.
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Estado, prescribe que los Gobiernos Regionales, gozan de autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, el artículo 38º de la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales”, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materia de su competencia;
+Que, el artículo 15º del Decreto Supremo Nº 043-2004-PCM, señala que los lineamientos para la elaboración y aprobación del Cuadro de Asignación de Personal de las Direcciones Regionales Sectoriales, se aprueban mediante Ordenanza Regional;
+Que, con Oficio Nº 1141-2009-GORE-ICA/PR, la Presidencia Regional de Ica remite al Consejo Regional el Proyecto del Cuadro de Asignación Personal–CAP de la Dirección Regional de Salud de Ica, para su aprobación; adjuntando el Informe No. 050-2009-SGDS, evaluado por la Sub Gerencia de Desarrollo Sistémico del Gobierno Regional, el mismo que contiene opinión favorable para su aprobación; también cuenta con Informe Nº 078-2009-OGPP-00/MINSA, evaluado por la Oficina General de Planeamiento y Presupuesto del Ministerio de Salud, que contiene opinión favorable para su aprobación y el Oficio Nº 1380-2009-GORE-ICA-DIRESA-ICA-OEPE/UO, con el cual la Dirección Regional de Salud de Ica, remite el expediente el sustento técnico legal de la propuesta de modificación del CAP de la Dirección Regional de Salud, al Ministerio de Salud; y de cuya evaluación del expediente administrativo se desprende que el proyecto de modificación se ha efectuado dentro de las especificaciones y lineamientos establecidos por el D.S. Nº 043-2004-PCM, por lo que es pertinente su aprobación mediante Ordenanza Regional por el Consejo Regional de Ica;
+Que, estando a lo acordado y aprobado por el Pleno del Consejo Regional en la Sesión Ordinaria de fecha 10 de mayo del 2009, y de conformidad con las facultades y atribuciones conferidas por la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales” y su modificatoria Ley Nº 27902;
+Ha dado la Ordenanza Regional siguiente:

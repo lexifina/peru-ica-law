@@ -1,0 +1,12 @@
+ORDENANZA REGIONAL
+Nº 0002-2009-GORE-ICA
+Ica, 29 de enero de 2009
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria de fecha 14 de enero del 2009;
+Ha dado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, la Constitución Política del Estado establece en su artículo 191º que, “los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia” y en su artículo 192º señala que, “es competencia de los gobiernos regionales promover el desarrollo socio económico regional, asi como formular, aprobar y ejecutar los planes y programas correspondientes”;
+Que, el artículo 6º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales, establece que “el desarrollo regional comprende la aplicación coherente y eficaz de las políticas e instrumentos de desarrollo económico social, poblacional, cultural y ambiental, a través de planes, programas y proyectos orientados a generar condiciones que permitan el crecimiento económico armonizado con la dinámica demográfica, el desarrollo social equitativo y la conservación de los recursos naturales y el ambiente en el territorio regional, orientado hacia el ejercicio pleno de los derechos de hombres y mujeres e igualdad de oportunidades”;
+Que, el artículo 51º de la ley acotada, establece que en materia agraria, son funciones del gobierno regional “formular, aprobar, ejecutar, dirigir, controlar y administrar los planes y políticas de la región en materia agraria...” dentro de las cuales se encuentra, la elaboración del Plan Regional de Desarrollo Ganadero, el mismo que debe observar los lineamientos del Plan Nacional de Desarrollo Ganadero aprobado mediante Decreto Supremo Nº 023-2006-AG, norma que brinda el marco político nacional, planteando estrategias y líneas de acción que permitan desarrollar la actividad ganadera nacional;
+Que, dentro de este contexto; la Gerencia Regional de Desarrollo Económico del Gobierno Regional de Ica, mediante Oficio Nº 494-2008-GORE-ICA/GRDE remite al Consejo Regional “el Plan Regional de Desarrollo Ganadero de la Región Ica 2008-2015” elaborado por la Dirección Regional Agraria de Ica, a efectos que, sea aprobado mediante Ordenanza Regional;
+Que, estando a lo acordado y aprobado por el Pleno del Consejo Regional en la Sesión Ordinaria de fecha 14 de enero del año 2009, y de conformidad con las facultades y atribuciones conferidas por la Ley Nº 27867 “Ley Orgánica de Gobiernos Regionales” y su modificatoria Ley Nº 27902:
+Ha dado la Ordenanza Regional siguiente:

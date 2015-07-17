@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 0002-2015-GORE-ICA
+Ica, 24 de junio de 2015
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria del día 08 de Junio de 2015, y el Memorando Nº 176-2015-GORE-ICA/GR de fecha 18-MAY-2015, derivado por el Gobernador Regional Ing. Fernando Cilloniz Benavides, sobre el Proyecto de Ordenanza Regional que “Regula el Proceso de Conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica”.
+CONSIDERANDO:
+Que, la Constitución Política del Estado en su Artículo 1º proclama la defensa de la persona humana y el respeto de su dignidad, como el fin supremo de la Sociedad y del Estado, y en su artículo 2º inciso 1, consagra el derecho que toda persona tiene a la vida, a su identidad, a su integridad moral, psíquica, física, a su libre desarrollo y bienestar, asimismo su Artículo 191º señala que los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia.
+Que, con Memorando Nº 176-2015-GORE-ICA/ GR, de fecha 18-MAY-2015, remitida por el Despacho del Gobernador Regional de Ica, Ing. Fernando Cilloniz Benavides, al Consejo Regional de Ica, el Proyecto de Ordenanza Regional que “Regula el Proceso de Conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica”, a fin de ser evaluado por el Pleno de Consejo Regional, que contiene el Informe Técnico y Legal correspondiente, que sustentan la regulación del proceso de conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica, con dispensa de Dictamen, para su debate y aprobación, con el objetivo de alcanzar el fortalecimiento de establecer políticas públicas que garanticen la integración para el proceso de conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica, quienes se encargaran de promover la participación e integración de diversos sectores en las acciones del Gobierno Regional de Ica.
+Que, con Nota Nº 03-2015-GORE.ICA-GGR de fecha 14-MAY-2015, de la Oficina de la Gerencia General Regional de Ica, remite el proyecto de “Ordenanza que regula el proceso de conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica”, elaborado por la Oficina de la Sub - Gerencia de Planeamiento Estratégico de la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, para que posteriormente sea elevado al Pleno del Consejo Regional, para su aprobación de corresponder.
+Que, con Informe Legal Nº 346-2015-GORE.ICA-ORAJ, de fecha 11-MAY-2015, de la Oficina Regional de Asesoría Jurídica del Gobierno Regional, Gerencia General Regional de Ica, remite el proyecto de “Ordenanza que regula el proceso de conformación del Consejo de Coordinación Regional del Gobierno Regional de Ica”, con opinión favorable procedente por encontrarse normado dentro de las normativas legales correspondientes.
+Que, estando a lo acordado y aprobado, en Sesión Ordinaria de fecha 08 de Junio del 2015, con dispensa del Dictamen el Consejo Regional del Gobierno Regional de Ica, en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales y demás Normas Pertinentes y estando a lo acordado por unanimidad.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
+ORDENANZA REGIONAL QUE REGULA EL PROCESO DE CONFORMACIÓN DEL CONSEJO DE COORDINACIÓN REGIONAL DEL GOBIERNO
+REGIONAL DE ICA
+TITULO I
+DE LAS DISPOSICIONES GENERALES
+CAPÍTULO I
+GENERALIDADES

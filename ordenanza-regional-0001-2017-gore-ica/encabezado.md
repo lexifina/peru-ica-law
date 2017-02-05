@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 0001-2017-GORE-ICA
+Ica, 1 de febrero de 2017
+El Consejo Regional del Gobierno Regional de Ica, en Sesión Ordinaria de fecha 01.FEB..2016. Visto el Memorando Nº 024-2017-GR de fecha 27 de enero 2017, suscrito por el Gobernador Regional, sobre la aprobación de la constitución de la “Mancomunidad Regional Huancavelica-Ica” (MANRHI).
+CONSIDERANDO:
+Que, la Constitución Política del Estado, en su artículo 191º, y la Ley Orgánica de Gobiernos Regionales, en el artículo 2º, establece que los gobiernos regionales tienen autonomía política, económica y administrativa en asuntos de su competencia.
+Que, la Ley Nº 29768, Ley de Mancomunidad Regional, en su artículo 2º, señala que la mancomunidad regional es el acuerdo voluntario de dos o más gobiernos regionales, que se unen para la prestación conjunta de servicios públicos, cofinanciamiento o inversión en la ejecución de obras, que promueven la integración, el desarrollo regional y la participación de la sociedad, coadyuvando al proceso de regionalización; y, en su artículo 3º, establece que la Mancomunidad Regional, es una persona jurídica de derecho público y constituye pliego presupuestal.
+Que, el artículo 10º del Reglamento de la Ley de Mancomunidad Regional, aprobado mediante Decreto Supremo Nº 050-2013-PCM, establece el procedimiento para la constitución de las mancomunidades regionales; en el numeral 10.5 del artículo 10º, se señala que mediante Ordenanza Regional, se apruebe la constitución de la Mancomunidad Regional, ratificando el contenido del Acta de Constitución, su Estatuto y la designación del primer Presidente del Comité Ejecutivo, y del primer Gerente General; asimismo, se establece que el Acta de Constitución y el Estatuto de la Mancomunidad Regional, forman parte de la Ordenanza Regional.
+Que, mediante Informe Nº 001-2017-MANRHI, elaborado por el Equipo Técnico Interregional, se declara la viabilidad para la constitución de la “Mancomunidad Regional Huancavelica – Ica (MANRHI), el Informe Legal Nº 036-2017-GRAJ, con opinión favorable.
+Que, en la Sesión de fecha 24 de enero de 2017, los gobernadores de los gobiernos regionales de Huancavelica e Ica, acordaron la constitución de la “Mancomunidad Regional Huancavelica-Ica” (MANRHI); asimismo, acordaron la aprobación de su Estatuto, elección del primer presidente del Comité Ejecutivo y la designación del primer Gerente General.
+Que, de acuerdo con lo establecido por la Constitución Política del Perú, la Ley Orgánica de Gobiernos Regionales - Ley Nº 27867, la Ley de Mancomunidad Regional, Ley Nº 29768 y su Reglamento, aprobado por Decreto Supremo Nº 050-2013-PCM, y el Informe Técnico Nº 001-2017-MANRHI.
+Que, de conformidad a lo aprobado en la Sesión Ordinaria de la fecha, con las atribuciones conferidas por la Ley de Descentralización - Ley Nº 27783, la Ley Orgánica de Gobiernos Regionales - Ley Nº 27867, sus modificatorias Ley Nº 27902 y el Reglamento Interno del Consejo Regional de Ica:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA QUE APRUEBA
+LA CONSTITUCIÓN DE LA “MANCOMUNIDAD REGIONAL HUANCAVELICA - ICA” (MANRHI)

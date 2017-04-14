@@ -1,0 +1,2 @@
+Artículo 1°.- DEL OBJETO
+La presente ordenanza tiene por objeto regular las actividades para el uso turístico del Área de Conservación Regional Laguna de Huacachina – ACRLH, administrada por el Gobierno Regional de Ica, a fin de incentivar un turismo dinámico e inclusivo dentro de dicha Área, que contribuya a la sostenibilidad económica, social y ambiental de la misma; así como ordenar el aprovechamiento del recurso natural PAISAJE en su modalidad de uso turístico.

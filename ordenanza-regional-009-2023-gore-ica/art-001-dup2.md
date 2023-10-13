@@ -1,0 +1,1 @@
+Artículo Primero.- CRÉASE el Consejo Regional para la integración de la Persona con Discapacidad – COREDIS ICA, que convendrá con el CONADIS en lo que fuera pertinente, para que en su representación vigile el cumplimiento de la Ley N° 29973 y su reglamento, extendiendo los alcances sociales, integradores e inclusivos de la Ley, a toda la jurisdicción de la Región de Ica;

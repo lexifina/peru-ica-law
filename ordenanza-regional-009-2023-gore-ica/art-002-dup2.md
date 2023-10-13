@@ -1,0 +1,1 @@
+Artículo Segundo.- DEJAR SUBSISTENTE todo lo demás que contiene la parte resolutiva de la Ordenanza Regional N° 016-2004-GORE-ICA de fecha 24 de setiembre de 2004, que crea el Consejo Regional de las Personas con Discapacidad - COREDIS.

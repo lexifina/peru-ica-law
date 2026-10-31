@@ -1,0 +1,11 @@
+{
+  "path": "pe-ica",
+  "code": "PE-ICA",
+  "name": "Ica",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-ica-law",
+  "build": "built: 101 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}

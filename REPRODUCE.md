@@ -191,20 +191,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-0020-2009-gore-ica` | Ordenanza Regional N° 0020-2009-GORE-ICA: Autorizan a la Dirección Regional de Transportes y Comunicaciones a emitir Licencias de Conducir de la Clase "A" | 1 | 2010-03-31 to 2010-03-31 |
 | `ordenanza-regional-0001-2010-gore-ica` | Ordenanza Regional N° 0001-2010-GORE-ICA: Declaran de interés regional y de necesidad pública el fomento, la promoción y el desarrollo de la industria petroquímica | 1 | 2010-03-31 to 2010-03-31 |
 | `ordenanza-regional-0005-2010-gore-ica` | Ordenanza Regional N° 0005-2010-GORE-ICA: Aprueban la adecuación de asignación de funciones de las Gerencias Regionales de Desarrollo Económico y de Desarrollo Social previstas en la Ley N° 27867 | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0018-2009-gore-ica` | Ordenanza Regional N° 0018-2009-GORE-ICA: Declaran de necesidad e interés público regional la adquisición de inmueble para el "Instituto Superior Tecnológico Público Pisco" | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-0005-2009-gore-ica` | Ordenanza Regional N° 0005-2009-GORE-ICA: Declaran de interés público regional el acceso de los adolescentes y jóvenes a servicios de salud sexual y reproductiva | 1 | 2009-10-02 to 2009-10-02 |
+| `ordenanza-regional-0010-2009-gore-ica` | Ordenanza Regional N° 0010-2009-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2009 del Gobierno Regional de Ica | 1 | 2009-10-01 to 2009-10-01 |
+| `ordenanza-regional-0013-2009-gore-ica` | Ordenanza Regional N° 0013-2009-GORE-ICA: Aprueban Cuadro de Asignación de Personal del Hospital de Apoyo de Nazca | 1 | 2009-09-13 to 2009-09-13 |
+| `ordenanza-regional-0008-2009-gore-ica` | Ordenanza Regional N° 0008-2009-GORE-ICA: Declaran de interés regional el uso sostenible del territorio, la Zonificación Ecológica y Económica - ZEE y Ordenamiento Territorial de la Región Ica, con el enfoque de gestión de riesgo y equidad de género | 1 | 2009-07-18 to 2009-07-18 |
+| `ordenanza-regional-0007-2009-gore-ica` | Ordenanza Regional N° 0007-2009-GORE-ICA: Aprueban Modificación del Cuadro de Asignación de Personal (CAP) de la Dirección Regional de Salud de Ica | 1 | 2009-07-18 to 2009-07-18 |
+| `ordenanza-regional-0004-2009-gore-ica` | Ordenanza Regional N° 0004-2009-GORE-ICA: Modifican la Ordenanza N° 018-2007-GORE-ICA que aprobó la constitución de la Comisión Multisectorial de la Mujer, Niño, Niña, Adolescente y Personas Adultas Mayores | 1 | 2009-05-21 to 2009-05-21 |
+| `ordenanza-regional-0003-2009-gore-ica` | Ordenanza Regional N° 0003-2009-GORE-ICA: Autorizan el inicio e implementación del Proceso de Planeamiento del Desarrollo Concertado y Presupuesto Participativo para el Año Fiscal 2010 | 1 | 2009-05-22 to 2009-05-22 |
 
-The build made 167 commits:
+The build made 175 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 167 | first version of an act |
+| 175 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 168 laws in the record.
-- 334 tags.
+- 176 laws in the record.
+- 350 tags.
 
 ## Dates
 
@@ -216,7 +224,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8100c3e187684d1481bba0b01cb67f00d8d6632d97cc7113f43a5e4ea1b5c6f2` (2232793 bytes).
+- Corpus: sha256 `315619fa094bdb1cd2df279b1893bab90fce018965d5a0297d53a8a58f8df391` (2303412 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

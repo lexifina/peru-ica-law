@@ -2352,6 +2352,118 @@
      "sha256": "707ef89efa810142934201ab5b80be226e9085dcec4eb98c4abfc0712504aa9e"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-0018-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0018-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0018-2009-GORE-ICA: Declaran de necesidad e interés público regional la adquisición de inmueble para el \"Instituto Superior Tecnológico Público Pisco\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/428660-1",
+   "versions": [
+    {
+     "from": "2009-11-29",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CxjNTb0oaq88vY1gOZk0nN/*/428660-1.pdf",
+     "sha256": "654722d046e24a90c2af7844c164bcf16829b2b2ab94de6c73ea0ba2394467f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0005-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0005-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0005-2009-GORE-ICA: Declaran de interés público regional el acceso de los adolescentes y jóvenes a servicios de salud sexual y reproductiva",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/404305-1",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CWEBb8l-KdA9lbigWTVayA/*/404305-3.pdf",
+     "sha256": "3799a37c9d650c02b58471af4d81de84d8612f49ee1262833472f2065f586912"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0010-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0010-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0010-2009-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2009 del Gobierno Regional de Ica",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/403598-3",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2aPQxycIKUg9oStZVKw9Nc/*/403598-5.pdf",
+     "sha256": "d0e2da23d1cf8c2d7ca2040b99fa9395e678d8fcd2642d9a33d91f6e6a8763c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0013-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0013-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0013-2009-GORE-ICA: Aprueban Cuadro de Asignación de Personal del Hospital de Apoyo de Nazca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/396229-1",
+   "versions": [
+    {
+     "from": "2009-09-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7CwzNxMYqCH9vFmLtOYKcz/*/396229-1.pdf",
+     "sha256": "d15e4e68fa6c879af56845ec33262f5eca70d93c0c422015144fd0949a76e64d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0008-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0008-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0008-2009-GORE-ICA: Declaran de interés regional el uso sostenible del territorio, la Zonificación Ecológica y Económica - ZEE y Ordenamiento Territorial de la Región Ica, con el enfoque de gestión de riesgo y equidad de género",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/373414-3",
+   "versions": [
+    {
+     "from": "2009-07-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9EC6zeklqfA8-NnzOVFEMU/*/373414-3.pdf",
+     "sha256": "e84628c50c42187c45c80eba9ac84cabff06c3050e793187f52520d3684595d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0007-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0007-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0007-2009-GORE-ICA: Aprueban Modificación del Cuadro de Asignación de Personal (CAP) de la Dirección Regional de Salud de Ica",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/373414-2",
+   "versions": [
+    {
+     "from": "2009-07-18",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4XjA66a_KupB_Y6W7pjT1i/*/373414-2.pdf",
+     "sha256": "e8776c376c44581e2df0145775b8f2585ede209026558b88913227cc24ce5cbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0004-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0004-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0004-2009-GORE-ICA: Modifican la Ordenanza N° 018-2007-GORE-ICA que aprobó la constitución de la Comisión Multisectorial de la Mujer, Niño, Niña, Adolescente y Personas Adultas Mayores",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/350219-2",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1VoL7ktTqlMByCpsPL7fpq/*/350219-2.pdf",
+     "sha256": "4f8434a680ebfff47dad81d82a19b5828408a6f9da0afa81cf4ec9a951afbb20"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0003-2009-gore-ica",
+   "short": "Ordenanza Regional N° 0003-2009-GORE-ICA",
+   "title": "Ordenanza Regional N° 0003-2009-GORE-ICA: Autorizan el inicio e implementación del Proceso de Planeamiento del Desarrollo Concertado y Presupuesto Participativo para el Año Fiscal 2010",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/350219-1",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7wMmZ5Sz4TN8UQ5QU4TBI7/*/350219-1.pdf",
+     "sha256": "5ece3b916cf91fce4d23317291d934c744402b7d2515350f41740983f6a1983a"
+    }
+   ]
   }
  ]
 }

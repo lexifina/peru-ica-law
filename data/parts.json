@@ -202,6 +202,19 @@
     "ordenanza-regional-008-2012-gore-ica"
    ],
    "sha256": "8658f6506a0c5ad4cc08b62ed2a3eb289363d1bf8c2fc874b98b3b08115b380d"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-0003-2009-gore-ica",
+    "ordenanza-regional-0004-2009-gore-ica",
+    "ordenanza-regional-0005-2009-gore-ica",
+    "ordenanza-regional-0007-2009-gore-ica",
+    "ordenanza-regional-0008-2009-gore-ica",
+    "ordenanza-regional-0010-2009-gore-ica",
+    "ordenanza-regional-0013-2009-gore-ica",
+    "ordenanza-regional-0018-2009-gore-ica"
+   ],
+   "sha256": "74102dbe2027a10c5a0bba493fd86fae72525ffd5fc5724d06cf0c31ddde65cf"
   }
  },
  "schema": 1

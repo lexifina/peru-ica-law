@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-168 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+176 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -184,6 +184,14 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-0020-2009-gore-ica/` | Ordenanza Regional N° 0020-2009-GORE-ICA: Autorizan a la Dirección Regional de Transportes y Comunicaciones a emitir Licencias de Conducir de la Clase "A" | in force 31 March 2010 |
 | `ordenanza-regional-0001-2010-gore-ica/` | Ordenanza Regional N° 0001-2010-GORE-ICA: Declaran de interés regional y de necesidad pública el fomento, la promoción y el desarrollo de la industria petroquím… | in force 31 March 2010 |
 | `ordenanza-regional-0005-2010-gore-ica/` | Ordenanza Regional N° 0005-2010-GORE-ICA: Aprueban la adecuación de asignación de funciones de las Gerencias Regionales de Desarrollo Económico y de Desarrollo … | in force 31 March 2010 |
+| `ordenanza-regional-0018-2009-gore-ica/` | Ordenanza Regional N° 0018-2009-GORE-ICA: Declaran de necesidad e interés público regional la adquisición de inmueble para el "Instituto Superior Tecnológico Pú… | in force 29 November 2009 |
+| `ordenanza-regional-0005-2009-gore-ica/` | Ordenanza Regional N° 0005-2009-GORE-ICA: Declaran de interés público regional el acceso de los adolescentes y jóvenes a servicios de salud sexual y reproductiv… | in force 2 October 2009 |
+| `ordenanza-regional-0010-2009-gore-ica/` | Ordenanza Regional N° 0010-2009-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2009 del Gobierno Regional de Ica | in force 1 October 2009 |
+| `ordenanza-regional-0013-2009-gore-ica/` | Ordenanza Regional N° 0013-2009-GORE-ICA: Aprueban Cuadro de Asignación de Personal del Hospital de Apoyo de Nazca | in force 13 September 2009 |
+| `ordenanza-regional-0008-2009-gore-ica/` | Ordenanza Regional N° 0008-2009-GORE-ICA: Declaran de interés regional el uso sostenible del territorio, la Zonificación Ecológica y Económica - ZEE y Ordenamie… | in force 18 July 2009 |
+| `ordenanza-regional-0007-2009-gore-ica/` | Ordenanza Regional N° 0007-2009-GORE-ICA: Aprueban Modificación del Cuadro de Asignación de Personal (CAP) de la Dirección Regional de Salud de Ica | in force 18 July 2009 |
+| `ordenanza-regional-0004-2009-gore-ica/` | Ordenanza Regional N° 0004-2009-GORE-ICA: Modifican la Ordenanza N° 018-2007-GORE-ICA que aprobó la constitución de la Comisión Multisectorial de la Mujer, Niño… | in force 21 May 2009 |
+| `ordenanza-regional-0003-2009-gore-ica/` | Ordenanza Regional N° 0003-2009-GORE-ICA: Autorizan el inicio e implementación del Proceso de Planeamiento del Desarrollo Concertado y Presupuesto Participativo… | in force 22 May 2009 |
 
 ## Source
 

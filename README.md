@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-101 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+122 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -113,6 +113,27 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-0014-2010-gore-ica/` | Ordenanza Regional N° 0014-2010-GORE-ICA: Aprueban modificación del Cuadro de Asignación de Personal del Hospital San Juan de Dios de Pisco | in force 4 June 2010 |
 | `ordenanza-regional-0012-2014-gore-ica/` | Ordenanza Regional N° 0012-2014-GORE-ICA: Aprueban el instrumento de Gestión Ambiental Regional denominado "Estrategia Regional de Cambio Climático de Ica (ERCC… | in force 17 May 2015 |
 | `ordenanza-regional-0005-2012-gore-ica/` | Ordenanza Regional N° 0005-2012-GORE-ICA: Modifican la Ordenanza N° 0012-2011-GORE-ICA, en lo referido a conformación del Comité Regional de Seguridad Ciudadana… | in force 25 August 2012 |
+| `ordenanza-regional-002-2026-gore-ica/` | Ordenanza Regional N° 002-2026-GORE-ICA: Modifican la Ordenanza Regional N° 0007-2018-GORE-ICA, que dispuso la conformación de la Comisión Técnica Regional de Z… | in force 4 November 2026 |
+| `ordenanza-regional-005-2021-gore-ica/` | Ordenanza Regional N° 005-2021-GORE-ICA: Aprueban modificación parcial del Reglamento de Organización y Funciones - ROF del Gobierno Regional de Ica y adiciona … | in force 24 July 2021 |
+| `ordenanza-regional-004-2021-gore-ica/` | Ordenanza Regional N° 004-2021-GORE-ICA: Aprueban el Reglamento del Procedimiento Administrativo Sancionador del Gobierno Regional de lca | in force 24 July 2021 |
+| `ordenanza-regional-0008-2020-gore-ica/` | Ordenanza Regional N° 0008-2020-GORE-ICA: Ordenanza Regional que aprueba el Plan Estratégico Regional de Turismo - PERTUR Ica al 2025 | in force 20 May 2021 |
+| `ordenanza-regional-0011-2019-gore-ica/` | Ordenanza Regional N° 0011-2019-GORE-ICA: Ratifican el Plan Regional de Seguridad Ciudadana 2019 del Gobierno Regional de Ica | in force 25 October 2019 |
+| `ordenanza-regional-0015-2019-gore-ica/` | Ordenanza Regional N° 0015 2019-GORE-ICA: Aprueban constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Ica | in force 18 October 2019 |
+| `ordenanza-regional-0014-2019-gore-ica/` | Ordenanza Regional N° 0014-2019-GORE-ICA: Declaran de Interés Público y de Prioridad Regional, la Prevención Contra el Racismo y cualquier Acto de Discriminació… | in force 18 October 2019 |
+| `ordenanza-regional-0007-2019-gore-ica/` | Ordenanza Regional N° 0007-2019-GORE-ICA: Aprueban el cumplimiento de la obligatoriedad de la colegiatura y la habilitación de los profesionales en la Ingenierí… | in force 30 June 2019 |
+| `ordenanza-regional-0004-2019-gore-ica/` | Ordenanza Regional N° 0004-2019-GORE-ICA: Modifican conformación de Consejo Regional de la Micro y Pequeña Empresa de la Región Ica | in force 30 June 2019 |
+| `ordenanza-regional-0003-2019-gore-ica/` | Ordenanza Regional N° 0003-2019-GORE-ICA: Constituyen la Coordinadora Regional Multisectorial de Salud de Ica (COREMUSA - ICA) | in force 30 June 2019 |
+| `ordenanza-regional-0019-2017-gore-ica/` | Ordenanza Regional N° 0019-2017-GORE-ICA: Aprueban la modificación de la Ordenanza Regional N°0012-2013-GORE-ICA | in force 15 December 2018 |
+| `ordenanza-regional-0001-2017-gore-ica/` | Ordenanza Regional N° 0001-2017-GORE-ICA: Aprueban constitución de la "Mancomunidad Regional Huancavelica - Ica" (MANRHI) | in force 5 February 2017 |
+| `ordenanza-regional-0009-2014-gore-ica/` | Ordenanza Regional N° 0009-2014-GORE-ICA: Ordenanza Regional para la implementación del Día del Desplazado en la Región Ica y la Feria Regional Interandina de l… | in force 17 May 2015 |
+| `ordenanza-regional-0010-2014-gore-ica/` | Ordenanza Regional N° 0010-2014-GORE-ICA: Ordenanza Regional que aprueba de necesidad e interés regional, las políticas, lineamientos, estrategias, prevención, … | in force 17 May 2015 |
+| `ordenanza-regional-0008-2014-gore-ica/` | Ordenanza Regional N° 0008-2014-GORE-ICA: Ordenanza Regional que aprueba la conformación de la Coordinadora Regional Multisectorial de la Estrategia - Incluir p… | in force 17 May 2015 |
+| `ordenanza-regional-0010-2013-gore-ica/` | Ordenanza Regional N° 0010-2013-GORE-ICA: Institucionalizan la "Condecoración Orden al Mérito de la Mujer Iqueña" y el "Otorgamiento de la Medalla Regional en H… | in force 24 November 2013 |
+| `ordenanza-regional-0009-2013-gore-ica/` | Ordenanza Regional N° 0009-2013-GORE-ICA: Crean Consejo Regional del Voluntariado de la Región Ica | in force 24 November 2013 |
+| `ordenanza-regional-0008-2013-gore-ica/` | Ordenanza Regional N° 0008-2013-GORE-ICA: Conforman la Comisión Especial del Consejo Regional  encargada de desarrollar el Proceso Administrativo Disciplinario … | in force 27 September 2013 |
+| `ordenanza-regional-0005-2013-gore-ica/` | Ordenanza Regional N° 0005-2013-GORE-ICA: Aprueban el "Programa Regional de Población Iqueña para periodo del 2013 - 2017" | in force 12 September 2013 |
+| `ordenanza-regional-0002-2013-gore-ica/` | Ordenanza Regional N° 0002-2013-GORE-ICA: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2013 - 2016" | in force 14 April 2013 |
+| `ordenanza-regional-0001-2013-gore-ica/` | Ordenanza Regional N° 0001-2013-GORE-ICA: Autorizan inicio y desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 | in force 2 March 2013 |
 
 ## Source
 

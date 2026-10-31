@@ -118,20 +118,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 
 . | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-002-2026-gore-ica` | Ordenanza Regional N° 002-2026-GORE-ICA: Modifican la Ordenanza Regional N° 0007-2018-GORE-ICA, que dispuso la conformación de la Comisión Técnica Regional de Zonificación Ecológica y Económica (ZEE) y ordenamiento territorial de la región Ica | 1 | 2026-11-04 to 2026-11-04 |
+| `ordenanza-regional-005-2021-gore-ica` | Ordenanza Regional N° 005-2021-GORE-ICA: Aprueban modificación parcial del Reglamento de Organización y Funciones - ROF del Gobierno Regional de Ica y adiciona facultades a la Gerencia Regional de Recursos Naturales y Gestion del Medio  Ambiente | 1 | 2021-07-24 to 2021-07-24 |
+| `ordenanza-regional-004-2021-gore-ica` | Ordenanza Regional N° 004-2021-GORE-ICA: Aprueban el Reglamento del Procedimiento Administrativo Sancionador del Gobierno Regional de lca | 1 | 2021-07-24 to 2021-07-24 |
+| `ordenanza-regional-0008-2020-gore-ica` | Ordenanza Regional N° 0008-2020-GORE-ICA: Ordenanza Regional que aprueba el Plan Estratégico Regional de Turismo - PERTUR Ica al 2025 | 1 | 2021-05-20 to 2021-05-20 |
+| `ordenanza-regional-0011-2019-gore-ica` | Ordenanza Regional N° 0011-2019-GORE-ICA: Ratifican el Plan Regional de Seguridad Ciudadana 2019 del Gobierno Regional de Ica | 1 | 2019-10-25 to 2019-10-25 |
+| `ordenanza-regional-0015-2019-gore-ica` | Ordenanza Regional N° 0015 2019-GORE-ICA: Aprueban constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Ica | 1 | 2019-10-18 to 2019-10-18 |
+| `ordenanza-regional-0014-2019-gore-ica` | Ordenanza Regional N° 0014-2019-GORE-ICA: Declaran de Interés Público y de Prioridad Regional, la Prevención Contra el Racismo y cualquier Acto de Discriminación o Exclusión Social en la jurisdicción del Gobierno Regional Ica | 1 | 2019-10-18 to 2019-10-18 |
+| `ordenanza-regional-0007-2019-gore-ica` | Ordenanza Regional N° 0007-2019-GORE-ICA: Aprueban el cumplimiento de la obligatoriedad de la colegiatura y la habilitación de los profesionales en la Ingeniería y Arquitectura para el ejercicio legal en el ámbito de la Región Ica | 1 | 2019-06-30 to 2019-06-30 |
+| `ordenanza-regional-0004-2019-gore-ica` | Ordenanza Regional N° 0004-2019-GORE-ICA: Modifican conformación de Consejo Regional de la Micro y Pequeña Empresa de la Región Ica | 1 | 2019-06-30 to 2019-06-30 |
+| `ordenanza-regional-0003-2019-gore-ica` | Ordenanza Regional N° 0003-2019-GORE-ICA: Constituyen la Coordinadora Regional Multisectorial de Salud de Ica (COREMUSA - ICA) | 1 | 2019-06-30 to 2019-06-30 |
+| `ordenanza-regional-0019-2017-gore-ica` | Ordenanza Regional N° 0019-2017-GORE-ICA: Aprueban la modificación de la Ordenanza Regional N°0012-2013-GORE-ICA | 1 | 2018-12-15 to 2018-12-15 |
+| `ordenanza-regional-0001-2017-gore-ica` | Ordenanza Regional N° 0001-2017-GORE-ICA: Aprueban constitución de la "Mancomunidad Regional Huancavelica - Ica" (MANRHI) | 1 | 2017-02-05 to 2017-02-05 |
+| `ordenanza-regional-0009-2014-gore-ica` | Ordenanza Regional N° 0009-2014-GORE-ICA: Ordenanza Regional para la implementación del Día del Desplazado en la Región Ica y la Feria Regional Interandina de la Familia Desplazada | 1 | 2015-05-17 to 2015-05-17 |
+| `ordenanza-regional-0010-2014-gore-ica` | Ordenanza Regional N° 0010-2014-GORE-ICA: Ordenanza Regional que aprueba de necesidad e interés regional, las políticas, lineamientos, estrategias, prevención, represión, y sanción de conductas delictivas contra la trata de personas y tráfico ilícito de migrantes en la Región Ica, así como la confor | 1 | 2015-05-17 to 2015-05-17 |
+| `ordenanza-regional-0008-2014-gore-ica` | Ordenanza Regional N° 0008-2014-GORE-ICA: Ordenanza Regional que aprueba la conformación de la Coordinadora Regional Multisectorial de la Estrategia - Incluir para Crecer | 1 | 2015-05-17 to 2015-05-17 |
+| `ordenanza-regional-0010-2013-gore-ica` | Ordenanza Regional N° 0010-2013-GORE-ICA: Institucionalizan la "Condecoración Orden al Mérito de la Mujer Iqueña" y el "Otorgamiento de la Medalla Regional en Honor a Catalina Buendía  de Pecho" | 1 | 2013-11-24 to 2013-11-24 |
+| `ordenanza-regional-0009-2013-gore-ica` | Ordenanza Regional N° 0009-2013-GORE-ICA: Crean Consejo Regional del Voluntariado de la Región Ica | 1 | 2013-11-24 to 2013-11-24 |
+| `ordenanza-regional-0008-2013-gore-ica` | Ordenanza Regional N° 0008-2013-GORE-ICA: Conforman la Comisión Especial del Consejo Regional  encargada de desarrollar el Proceso Administrativo Disciplinario contra el ex Presidente de Gobierno Regional  (Periodo 2007 - 2010) | 1 | 2013-09-27 to 2013-09-27 |
+| `ordenanza-regional-0005-2013-gore-ica` | Ordenanza Regional N° 0005-2013-GORE-ICA: Aprueban el "Programa Regional de Población Iqueña para periodo del 2013 - 2017" | 1 | 2013-09-12 to 2013-09-12 |
+| `ordenanza-regional-0002-2013-gore-ica` | Ordenanza Regional N° 0002-2013-GORE-ICA: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2013 - 2016" | 1 | 2013-04-14 to 2013-04-14 |
+| `ordenanza-regional-0001-2013-gore-ica` | Ordenanza Regional N° 0001-2013-GORE-ICA: Autorizan inicio y desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 | 1 | 2013-03-02 to 2013-03-02 |
 
-The build made 101 commits:
+The build made 121 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 101 | first version of an act |
+| 121 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 101 laws in the record.
-- 202 tags.
+- 122 laws in the record.
+- 242 tags.
 
 ## Dates
 
@@ -143,13 +164,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `688fc75642da2a4b156315481c0edf6ffb84006616af8711d819a2b301c18923` (1472407 bytes).
+- Corpus: sha256 `70809d41bb90a43ce1b7aacda55e985988090a51ef1ab9f50c645670b0025dcd` (1738248 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-101 versions of 101 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

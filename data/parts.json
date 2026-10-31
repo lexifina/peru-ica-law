@@ -1,0 +1,131 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2023-gore-ica",
+    "ordenanza-regional-001-2024-gore-ica",
+    "ordenanza-regional-002-2023-gore-ica",
+    "ordenanza-regional-002-2025-gore-ica",
+    "ordenanza-regional-003-2023-gore-ica",
+    "ordenanza-regional-003-2024-gore-ica",
+    "ordenanza-regional-003-2025-gore-ica",
+    "ordenanza-regional-004-2022-gore-ica",
+    "ordenanza-regional-004-2023-gore-ica",
+    "ordenanza-regional-004-2024-gore-ica",
+    "ordenanza-regional-004-2026-gore-ica",
+    "ordenanza-regional-005-2022-gore-ica",
+    "ordenanza-regional-005-2023-gore-ica",
+    "ordenanza-regional-005-2026-gore-ica",
+    "ordenanza-regional-006-2024-gore-ica",
+    "ordenanza-regional-007-2022-gore-ica",
+    "ordenanza-regional-007-2023-gore-ica",
+    "ordenanza-regional-007-2024-gore-ica",
+    "ordenanza-regional-007-2025-gore-ica",
+    "ordenanza-regional-008-2023-gore-ica",
+    "ordenanza-regional-009-2022-gore-ica",
+    "ordenanza-regional-009-2023-gore-ica",
+    "ordenanza-regional-009-2024-gore-ica",
+    "ordenanza-regional-010-2022-gore-ica",
+    "ordenanza-regional-010-2023-gore-ica",
+    "ordenanza-regional-011-2022-gore-ica",
+    "ordenanza-regional-011-2023-gore-ica",
+    "ordenanza-regional-012-2022-gore-ica",
+    "ordenanza-regional-013-2022-gore-ica",
+    "ordenanza-regional-013-2023-gore-ica",
+    "ordenanza-regional-013-2025-gore-ica",
+    "ordenanza-regional-014-2022-gore-ica",
+    "ordenanza-regional-014-2023-gore-ica",
+    "ordenanza-regional-014-2025-gore-ica",
+    "ordenanza-regional-015-2022-gore-ica",
+    "ordenanza-regional-016-2021-gore-ica",
+    "ordenanza-regional-016-2022-gore-ica",
+    "ordenanza-regional-017-2021-gore-ica",
+    "ordenanza-regional-017-2025-gore-ica",
+    "ordenanza-regional-023-2022-gore-ica"
+   ],
+   "sha256": "ac95a78493c26b6c0112f38a845f8b73219e7a543b8e7b95fa2bfb4dd69466eb"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-0001-2018-gore-ica",
+    "ordenanza-regional-0001-2019-gore-ica",
+    "ordenanza-regional-0001-2021-ica",
+    "ordenanza-regional-0002-2018-gore-ica",
+    "ordenanza-regional-0002-2019-gore-ica",
+    "ordenanza-regional-0002-2021-ica",
+    "ordenanza-regional-0003-2018-gore-ica",
+    "ordenanza-regional-0003-2021-ica",
+    "ordenanza-regional-0004-2018-gore-ica",
+    "ordenanza-regional-0005-2019-gore-ica",
+    "ordenanza-regional-0006-2018-gore-ica",
+    "ordenanza-regional-0006-2019-gore-ica",
+    "ordenanza-regional-0007-2018-gore-ica",
+    "ordenanza-regional-0007-2021-gore-ica",
+    "ordenanza-regional-0008-2019-gore-ica",
+    "ordenanza-regional-0008-2021-gore-ica",
+    "ordenanza-regional-001-2022-gore-ica",
+    "ordenanza-regional-0010-2019-gore-ica",
+    "ordenanza-regional-0011-2018-gore-ica",
+    "ordenanza-regional-0012-2021-gore-ica",
+    "ordenanza-regional-0013-2019-gore-ica",
+    "ordenanza-regional-0013-2021-gore-ica",
+    "ordenanza-regional-0014-2021-gore-ica",
+    "ordenanza-regional-0017-2019-gore-ica",
+    "ordenanza-regional-0018-2017-gore-ica",
+    "ordenanza-regional-0018-2019-gore-ica",
+    "ordenanza-regional-0019-2019-gore-ica",
+    "ordenanza-regional-0020-2019-gore-ica",
+    "ordenanza-regional-0021-2019-gore-ica",
+    "ordenanza-regional-009-2021-gore-ica",
+    "ordenanza-regional-010-2021-gore-ica",
+    "ordenanza-regional-015-2021-gore-ica"
+   ],
+   "sha256": "710c444bd03a6e8f07a54673a8c33573d8a5606e3fea4d047bda5d5cba9a4634"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-0002-2011-gore-ica",
+    "ordenanza-regional-0002-2015-gore-ica",
+    "ordenanza-regional-0002-2016-gore-ica",
+    "ordenanza-regional-0002-2017-gore-ica",
+    "ordenanza-regional-0003-2016-gore-ica",
+    "ordenanza-regional-0003-2017-gore-ica",
+    "ordenanza-regional-0004-2015-gore-ica",
+    "ordenanza-regional-0004-2016-gore-ica",
+    "ordenanza-regional-0004-2017-gore-ica",
+    "ordenanza-regional-0005-2016-gore-ica",
+    "ordenanza-regional-0005-2017-gore-ica",
+    "ordenanza-regional-0006-2009-gore-ica",
+    "ordenanza-regional-0006-2010-gore-ica",
+    "ordenanza-regional-0007-2015-gore-ica",
+    "ordenanza-regional-0007-2017-gore-ica",
+    "ordenanza-regional-0008-2017-gore-ica",
+    "ordenanza-regional-0009-2017-gore-ica",
+    "ordenanza-regional-001-2016-gore-ica",
+    "ordenanza-regional-0010-2017-gore-ica",
+    "ordenanza-regional-0012-2017-gore-ica",
+    "ordenanza-regional-0014-2017-gore-ica",
+    "ordenanza-regional-0017-2006-gore-ica"
+   ],
+   "sha256": "9b50304b36435a3b8ce36b90722fe14fba6f41f48e2086f49eddc66045ce1943"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-0001-2009-gore-ica",
+    "ordenanza-regional-0002-2009-gore-ica",
+    "ordenanza-regional-0012-2009-gore-ica",
+    "ordenanza-regional-0012-2014-gore-ica",
+    "ordenanza-regional-0014-2010-gore-ica",
+    "ordenanza-regional-0023-2010-gore-ica"
+   ],
+   "sha256": "d73b246431040ee8a9f37b00db4a4cc66e6e776ea1b70878079f9d43a815322d"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-0005-2012-gore-ica"
+   ],
+   "sha256": "f37e7180c148cbdaf835e074b57e408c82759c82347f93e4ac568e3abd9f412a"
+  }
+ },
+ "schema": 1
+}

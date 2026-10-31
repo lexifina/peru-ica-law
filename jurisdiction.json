@@ -5,7 +5,7 @@
   "level": "region",
   "parent": "pe",
   "repo": "https://github.com/lexifina/peru-ica-law",
-  "build": "built: 122 ordinances as published in El Peruano",
+  "build": "built: 168 ordinances as published in El Peruano",
   "language": "es",
   "sources": 1
 }

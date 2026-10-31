@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-122 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+168 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -134,6 +134,56 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-0005-2013-gore-ica/` | Ordenanza Regional N° 0005-2013-GORE-ICA: Aprueban el "Programa Regional de Población Iqueña para periodo del 2013 - 2017" | in force 12 September 2013 |
 | `ordenanza-regional-0002-2013-gore-ica/` | Ordenanza Regional N° 0002-2013-GORE-ICA: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2013 - 2016" | in force 14 April 2013 |
 | `ordenanza-regional-0001-2013-gore-ica/` | Ordenanza Regional N° 0001-2013-GORE-ICA: Autorizan inicio y desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 | in force 2 March 2013 |
+| `ordenanza-regional-0015-2012-gore-ica/` | Ordenanza Regional N° 0015-2012-GORE-ICA: Amplían alcances de la Ordenanza N° 0021-2007-GORE-ICA para la ejecución y reestructuración de la Comisión Ejecutora E… | in force 2 March 2013 |
+| `ordenanza-regional-0013-2012-gore-ica/` | Ordenanza Regional N° 0013-2012-GORE-ICA: Crean la Instancia  Regional de Concertación Contra la Violencia Hacia la Mujer de la Región Ica  - "IRC-CVH MUJER REG… | in force 30 November 2012 |
+| `ordenanza-regional-0011-2012-gore-ica/` | Ordenanza Regional N° 0011-2012-GORE-ICA: Aprueban Reglamento de Organización y Funciones - ROF y modifican el Cuadro de Asignación de Personal - CAP del Hospit… | in force 30 November 2012 |
+| `ordenanza-regional-0012-2012-gore-ica/` | Ordenanza Regional N° 0012-2012-GORE-ICA: Aprueban Reglamento de Organización y Funciones - ROF y aprueban el Cuadro de Asignación de Personal - CAP del Hospita… | in force 30 November 2012 |
+| `ordenanza-regional-0014-2012-gore-ica/` | Ordenanza Regional N° 0014-2012-GORE-ICA: Aprueban el "Plan Regional de Apoyo y Fortalecimiento a las Familias de la Región Ica 2012 -2021" | in force 30 November 2012 |
+| `ordenanza-regional-0006-2012-gore-ica/` | Ordenanza Regional N° 0006-2012-GORE-ICA: Aprueban modificación del Cuadro de Asignación de Personal (CAP) del Hospital Santa María del Socorro | in force 30 November 2012 |
+| `ordenanza-regional-0007-2012-gore-ica/` | Ordenanza Regional N° 0007-2012-GORE-ICA: Aprueban modificación del Cuadro de Asignación de Personal (CAP) del Hospital San Juan de Dios de Pisco | in force 30 November 2012 |
+| `ordenanza-regional-008-2012-gore-ica/` | Ordenanza Regional N° 008-2012-GORE-ICA: Crean el Consejo Regional de Seguridad Vial Región Ica - CRSV Región Ica | in force 6 September 2012 |
+| `ordenanza-regional-0010-2012-gore-ica/` | Ordenanza Regional N° 0010-2012-GORE-ICA: Crean Comité Especial de Promoción de la Inversión Privada - CEPRI GORE ICA
+
+. | in force 5 September 2012 |
+| `ordenanza-regional-0009-2012-gore-ica/` | Ordenanza Regional N° 0009-2012-GORE-ICA: Aprueban el Reglamento para la Promoción de la Inversión Privada en la Región Ica
+
+. | in force 5 September 2012 |
+| `ordenanza-regional-0004-2012-gore-ica/` | Ordenanza Regional N° 0004-2012-GORE-ICA: Aprueban modificación de la Ordenanza N° 002-2012-GORE-ICA en lo referente al CAP de la Red de Salud II Chincha - Pisc… | in force 14 July 2012 |
+| `ordenanza-regional-0003-2012-gore-ica/` | Ordenanza Regional N° 0003-2012-GORE-ICA: Crean el "Programa Regional de Promoción para el Consumo Humano Directo de la Anchoveta para reducir la Desnutrición" … | in force 24 June 2012 |
+| `ordenanza-regional-0002-2012-gore-ica/` | Ordenanza Regional N° 0002-2012-GORE-ICA: Aprueban modificaciones de los Cuadros para Asignación de Personal de la Red de Salud II Chincha - Pisco, Dirección Re… | in force 26 March 2012 |
+| `ordenanza-regional-0018-2011-gore-ica/` | Ordenanza Regional N° 0018-2011-GORE-ICA: Autorizan el inicio e implementación del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal… | in force 25 February 2012 |
+| `ordenanza-regional-0017-2011-gore-ica/` | Ordenanza Regional N° 0017-2011-GORE-ICA: Crean el Consejo Regional de Fomento de Desarrollo de la Pesca Artesanal de la Región Ica | in force 25 February 2012 |
+| `ordenanza-regional-0001-2012-gore-ica/` | Ordenanza Regional N° 0001-2012-GORE-ICA: Aprueban modificación del Reglamento de Organización y Funciones y del Cuadro para Asignación de Personal del Hospital… | in force 25 February 2012 |
+| `ordenanza-regional-0014-2011-gore-ica/` | Ordenanza Regional N° 0014-2011-GORE-ICA: Aprueban el Plan Vial Departamental Participativo de Ica, 2011 -2020 | in force 30 December 2011 |
+| `ordenanza-regional-0015-2011-gore-ica/` | Ordenanza Regional N° 0015-2011-GORE-ICA: Crean el Consejo Regional de la Mujer de Ica como Órgano de Participación y Consulta adscrito a la Gerencia de Desarro… | in force 30 December 2011 |
+| `ordenanza-regional-0013-2011-gore-ica/` | Ordenanza Regional N° 0013-2011-GORE-ICA: Declñaran de interés y necesidad pública regional la prevención y control de la Tuberculosis | in force 23 September 2011 |
+| `ordenanza-regional-0012-2011-gore-ica/` | Ordenanza Regional N° 0012-2011-GORE-ICA: Conforman el Comité Regional de Seguridad Ciudadana | in force 23 September 2011 |
+| `ordenanza-regional-0011-2011-gore-ica/` | Ordenanza Regional N° 0011-2011-GORE-ICA: Aprueban el Plan Estratégico Regional Multisectorial para la Prevención y Control de ITS, VIH y SIDA en la Región Ica,… | in force 29 July 2011 |
+| `ordenanza-regional-0009-2011-gore-ica/` | Ordenanza Regional N° 0009-2011-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2011 | in force 11 June 2011 |
+| `ordenanza-regional-0010-2011-gore-ica/` | Ordenanza Regional N° 0010-2011-GORE-ICA: Aprueban la modificación del Cuadro de Asignación de Personal (CAP) de la Dirección Regional de Salud de Ica | in force 11 June 2011 |
+| `ordenanza-regional-0008-2011-gore-ica/` | Ordenanza Regional N° 0008-2011-GORE-ICA: Aprueban modificación de Cuadros de Asignación de Personal de   Redes de Salud y de Hospitales | in force 16 May 2011 |
+| `ordenanza-regional-0007-2010-gore-ica/` | Ordenanza Regional N° 0007-2010-GORE-ICA: Declaran de interés público regional la transferencia de funciones establecidas en los incisos g) y j) del artículo 52… | in force 5 May 2011 |
+| `ordenanza-regional-0003-2011-gore-ica/` | Ordenanza Regional N° 0003-2011-GORE-ICA: Crean el Comité Regional Coordinador para la Prevención, Atención y Protección Frente al Hostigamiento Sexual en la Re… | in force 17 April 2011 |
+| `ordenanza-regional-0005-2011-gore-ica/` | Ordenanza Regional N° 0005-2011-GORE-ICA: Aprueban Plan de Desarrollo Regional Concertado de la Región Ica 2010 - 2021 | in force 17 April 2011 |
+| `ordenanza-regional-0004-2011-gore-ica/` | Ordenanza Regional N° 0004-2011-GORE-ICA: Declaran de interés y necesidad pública regional la promoción de  la cultura de Paz y el Manejo Constructivo de Confli… | in force 17 April 2011 |
+| `ordenanza-regional-0001-2011-gore-ica/` | Ordenanza Regional N° 0001-2011-GORE-ICA: Autorizan el inicio del Proceso del Presupuesto Participativo basado en Resultados para el año fiscal 2012 y aprueban … | in force 27 February 2011 |
+| `ordenanza-regional-0024-2010-gore-ica/` | Ordenanza Regional N° 0024-2010-GORE-ICA: Declaran emergencia hídrica regional a fin de adoptar medidas que permitan la priorización en la ejecución de diversos… | in force 6 February 2011 |
+| `ordenanza-regional-0020-2010-gore-ica/` | Ordenanza Regional N° 0020-2010-GORE-ICA: Establecen que en todas las dependencias del Gobierno Regional de Ica y sus sectores, se brinde trato especial prefere… | in force 30 November 2010 |
+| `ordenanza-regional-0018-2010-gore-ica/` | Ordenanza Regional N° 0018-2010-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2010 del Gobierno Regional de Ica | in force 28 November 2010 |
+| `ordenanza-regional-0021-2010-gore-ica/` | Ordenanza Regional N° 0021-2010-GORE-ICA: Aprueban la creación de la Dirección Regional de Saneamiento de la Propiedad | in force 31 October 2010 |
+| `ordenanza-regional-0019-2010-gore-ica/` | Ordenanza Regional N° 0019-2010-GORE-ICA: Aprueban la Modificación del Cuadro de Asignación de Personal -CAP del Hospital de Apoyo de Nasca | in force 12 September 2010 |
+| `ordenanza-regional-00012-2010-gore-ica/` | Ordenanza Regional N° 00012-2010-GORE ICA: Crean el Consejo Regional del Trabajo y Promoción del Empleo del Gobierno Regional de Ica | in force 19 June 2010 |
+| `ordenanza-regional-00010-2010-gore-ica/` | Ordenanza Regional N° 00010-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción del Gasoducto Pisco, Ica, Nasca y Marcona | in force 23 April 2010 |
+| `ordenanza-regional-00007-2010-gore-ica/` | Ordenanza Regional N° 00007-2010-GORE ICA: Declaran de interés regional y de necesidad pública la transferencia de funciones previstas en el Art. 62° de la Ley … | in force 23 April 2010 |
+| `ordenanza-regional-00011-2010-gore-ica/` | Ordenanza Regional N° 00011-2010-GORE ICA: Declaran de interés regional y de necesidad pública la transferencia de funciones de los servicios básicos a los ente… | in force 23 April 2010 |
+| `ordenanza-regional-00009-2010-gore-ica/` | Ordenanza Regional N° 00009-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción, Asfaltado y Mantenimiento del Proyecto Corredor … | in force 23 April 2010 |
+| `ordenanza-regional-00008-2010-gore-ica/` | Ordenanza Regional N° 00008-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción del Megapuerto de Marcona | in force 23 April 2010 |
+| `ordenanza-regional-0021-2009-gore-ica/` | Ordenanza Regional N° 0021-2009-GORE-ICA: Declaran de prioridad e interés público la institucionalización de la "técnica del lavado de manos con jabón" | in force 31 March 2010 |
+| `ordenanza-regional-0015-2008-gore-ica/` | Ordenanza Regional N° 0015-2008-GORE-ICA: Autorizan a CRECER ICA extender su ámbito de Intervención a los 33 distritos afectados por el terremoto del 15 de Agos… | in force 31 March 2010 |
+| `ordenanza-regional-0022-2009-gore-ica/` | Ordenanza Regional N° 0022-2009-GORE-ICA: Aprueban cuadro de Asignación de Personal de la Red de Salud Chincha-Pisco | in force 31 March 2010 |
+| `ordenanza-regional-0020-2009-gore-ica/` | Ordenanza Regional N° 0020-2009-GORE-ICA: Autorizan a la Dirección Regional de Transportes y Comunicaciones a emitir Licencias de Conducir de la Clase "A" | in force 31 March 2010 |
+| `ordenanza-regional-0001-2010-gore-ica/` | Ordenanza Regional N° 0001-2010-GORE-ICA: Declaran de interés regional y de necesidad pública el fomento, la promoción y el desarrollo de la industria petroquím… | in force 31 March 2010 |
+| `ordenanza-regional-0005-2010-gore-ica/` | Ordenanza Regional N° 0005-2010-GORE-ICA: Aprueban la adecuación de asignación de funciones de las Gerencias Regionales de Desarrollo Económico y de Desarrollo … | in force 31 March 2010 |
 
 ## Source
 

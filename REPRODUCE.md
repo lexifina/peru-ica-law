@@ -139,20 +139,72 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-0005-2013-gore-ica` | Ordenanza Regional N° 0005-2013-GORE-ICA: Aprueban el "Programa Regional de Población Iqueña para periodo del 2013 - 2017" | 1 | 2013-09-12 to 2013-09-12 |
 | `ordenanza-regional-0002-2013-gore-ica` | Ordenanza Regional N° 0002-2013-GORE-ICA: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2013 - 2016" | 1 | 2013-04-14 to 2013-04-14 |
 | `ordenanza-regional-0001-2013-gore-ica` | Ordenanza Regional N° 0001-2013-GORE-ICA: Autorizan inicio y desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 | 1 | 2013-03-02 to 2013-03-02 |
+| `ordenanza-regional-0015-2012-gore-ica` | Ordenanza Regional N° 0015-2012-GORE-ICA: Amplían alcances de la Ordenanza N° 0021-2007-GORE-ICA para la ejecución y reestructuración de la Comisión Ejecutora Especial | 1 | 2013-03-02 to 2013-03-02 |
+| `ordenanza-regional-0013-2012-gore-ica` | Ordenanza Regional N° 0013-2012-GORE-ICA: Crean la Instancia  Regional de Concertación Contra la Violencia Hacia la Mujer de la Región Ica  - "IRC-CVH MUJER REGION ICA" | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-0011-2012-gore-ica` | Ordenanza Regional N° 0011-2012-GORE-ICA: Aprueban Reglamento de Organización y Funciones - ROF y modifican el Cuadro de Asignación de Personal - CAP del Hospital San Juan de Dios de Pisco. | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-0012-2012-gore-ica` | Ordenanza Regional N° 0012-2012-GORE-ICA: Aprueban Reglamento de Organización y Funciones - ROF y aprueban el Cuadro de Asignación de Personal - CAP del Hospital Santa María del Socorro de Ica. | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-0014-2012-gore-ica` | Ordenanza Regional N° 0014-2012-GORE-ICA: Aprueban el "Plan Regional de Apoyo y Fortalecimiento a las Familias de la Región Ica 2012 -2021" | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-0006-2012-gore-ica` | Ordenanza Regional N° 0006-2012-GORE-ICA: Aprueban modificación del Cuadro de Asignación de Personal (CAP) del Hospital Santa María del Socorro | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-0007-2012-gore-ica` | Ordenanza Regional N° 0007-2012-GORE-ICA: Aprueban modificación del Cuadro de Asignación de Personal (CAP) del Hospital San Juan de Dios de Pisco | 1 | 2012-11-30 to 2012-11-30 |
+| `ordenanza-regional-008-2012-gore-ica` | Ordenanza Regional N° 008-2012-GORE-ICA: Crean el Consejo Regional de Seguridad Vial Región Ica - CRSV Región Ica | 1 | 2012-09-06 to 2012-09-06 |
+| `ordenanza-regional-0010-2012-gore-ica` | Ordenanza Regional N° 0010-2012-GORE-ICA: Crean Comité Especial de Promoción de la Inversión Privada - CEPRI GORE ICA
 
-The build made 121 commits:
+
+. | 1 | 2012-09-05 to 2012-09-05 |
+| `ordenanza-regional-0009-2012-gore-ica` | Ordenanza Regional N° 0009-2012-GORE-ICA: Aprueban el Reglamento para la Promoción de la Inversión Privada en la Región Ica
+
+
+. | 1 | 2012-09-05 to 2012-09-05 |
+| `ordenanza-regional-0004-2012-gore-ica` | Ordenanza Regional N° 0004-2012-GORE-ICA: Aprueban modificación de la Ordenanza N° 002-2012-GORE-ICA en lo referente al CAP de la Red de Salud II Chincha - Pisco | 1 | 2012-07-14 to 2012-07-14 |
+| `ordenanza-regional-0003-2012-gore-ica` | Ordenanza Regional N° 0003-2012-GORE-ICA: Crean el "Programa Regional de Promoción para el Consumo Humano Directo de la Anchoveta para reducir la Desnutrición" y el "Programa de Seguimiento, Control y Vigilancia de la Actividad Pesquera Regional  PSCOVI-APR" | 1 | 2012-06-24 to 2012-06-24 |
+| `ordenanza-regional-0002-2012-gore-ica` | Ordenanza Regional N° 0002-2012-GORE-ICA: Aprueban modificaciones de los Cuadros para Asignación de Personal de la Red de Salud II Chincha - Pisco, Dirección Regional de Salud de Ica, Red de Salud I, Ica - Palpa-Nazca y de diversos hospitales | 1 | 2012-03-26 to 2012-03-26 |
+| `ordenanza-regional-0018-2011-gore-ica` | Ordenanza Regional N° 0018-2011-GORE-ICA: Autorizan el inicio e implementación del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2013 y aprueban Reglamento y Cronograma de Actividades | 1 | 2012-02-25 to 2012-02-25 |
+| `ordenanza-regional-0017-2011-gore-ica` | Ordenanza Regional N° 0017-2011-GORE-ICA: Crean el Consejo Regional de Fomento de Desarrollo de la Pesca Artesanal de la Región Ica | 1 | 2012-02-25 to 2012-02-25 |
+| `ordenanza-regional-0001-2012-gore-ica` | Ordenanza Regional N° 0001-2012-GORE-ICA: Aprueban modificación del Reglamento de Organización y Funciones y del Cuadro para Asignación de Personal del Hospital Regional de Ica | 1 | 2012-02-25 to 2012-02-25 |
+| `ordenanza-regional-0014-2011-gore-ica` | Ordenanza Regional N° 0014-2011-GORE-ICA: Aprueban el Plan Vial Departamental Participativo de Ica, 2011 -2020 | 1 | 2011-12-30 to 2011-12-30 |
+| `ordenanza-regional-0015-2011-gore-ica` | Ordenanza Regional N° 0015-2011-GORE-ICA: Crean el Consejo Regional de la Mujer de Ica como Órgano de Participación y Consulta adscrito a la Gerencia de Desarrollo Social de Ica | 1 | 2011-12-30 to 2011-12-30 |
+| `ordenanza-regional-0013-2011-gore-ica` | Ordenanza Regional N° 0013-2011-GORE-ICA: Declñaran de interés y necesidad pública regional la prevención y control de la Tuberculosis | 1 | 2011-09-23 to 2011-09-23 |
+| `ordenanza-regional-0012-2011-gore-ica` | Ordenanza Regional N° 0012-2011-GORE-ICA: Conforman el Comité Regional de Seguridad Ciudadana | 1 | 2011-09-23 to 2011-09-23 |
+| `ordenanza-regional-0011-2011-gore-ica` | Ordenanza Regional N° 0011-2011-GORE-ICA: Aprueban el Plan Estratégico Regional Multisectorial para la Prevención y Control de ITS, VIH y SIDA en la Región Ica, Período 2011-2016 | 1 | 2011-07-29 to 2011-07-29 |
+| `ordenanza-regional-0009-2011-gore-ica` | Ordenanza Regional N° 0009-2011-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2011 | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-0010-2011-gore-ica` | Ordenanza Regional N° 0010-2011-GORE-ICA: Aprueban la modificación del Cuadro de Asignación de Personal (CAP) de la Dirección Regional de Salud de Ica | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-0008-2011-gore-ica` | Ordenanza Regional N° 0008-2011-GORE-ICA: Aprueban modificación de Cuadros de Asignación de Personal de   Redes de Salud y de Hospitales | 1 | 2011-05-16 to 2011-05-16 |
+| `ordenanza-regional-0007-2010-gore-ica` | Ordenanza Regional N° 0007-2010-GORE-ICA: Declaran de interés público regional la transferencia de funciones establecidas en los incisos g) y j) del artículo 52° de la Ley N° 27867 | 1 | 2011-05-05 to 2011-05-05 |
+| `ordenanza-regional-0003-2011-gore-ica` | Ordenanza Regional N° 0003-2011-GORE-ICA: Crean el Comité Regional Coordinador para la Prevención, Atención y Protección Frente al Hostigamiento Sexual en la Región Ica | 1 | 2011-04-17 to 2011-04-17 |
+| `ordenanza-regional-0005-2011-gore-ica` | Ordenanza Regional N° 0005-2011-GORE-ICA: Aprueban Plan de Desarrollo Regional Concertado de la Región Ica 2010 - 2021 | 1 | 2011-04-17 to 2011-04-17 |
+| `ordenanza-regional-0004-2011-gore-ica` | Ordenanza Regional N° 0004-2011-GORE-ICA: Declaran de interés y necesidad pública regional la promoción de  la cultura de Paz y el Manejo Constructivo de Conflictos Sociales Regionales y crean Consejo Regional de Diálogo y Concertación | 1 | 2011-04-17 to 2011-04-17 |
+| `ordenanza-regional-0001-2011-gore-ica` | Ordenanza Regional N° 0001-2011-GORE-ICA: Autorizan el inicio del Proceso del Presupuesto Participativo basado en Resultados para el año fiscal 2012 y aprueban Reglamento y Cronograma de Actividades | 1 | 2011-02-27 to 2011-02-27 |
+| `ordenanza-regional-0024-2010-gore-ica` | Ordenanza Regional N° 0024-2010-GORE-ICA: Declaran emergencia hídrica regional a fin de adoptar medidas que permitan la priorización en la ejecución de diversos proyectos de inversión pública | 1 | 2011-02-06 to 2011-02-06 |
+| `ordenanza-regional-0020-2010-gore-ica` | Ordenanza Regional N° 0020-2010-GORE-ICA: Establecen que en todas las dependencias del Gobierno Regional de Ica y sus sectores, se brinde trato especial preferente a niños, mujeres gestantes, adultos mayores y personas con discapacidad | 1 | 2010-11-30 to 2010-11-30 |
+| `ordenanza-regional-0018-2010-gore-ica` | Ordenanza Regional N° 0018-2010-GORE-ICA: Aprueban el Plan Operativo Institucional - POI, Período 2010 del Gobierno Regional de Ica | 1 | 2010-11-28 to 2010-11-28 |
+| `ordenanza-regional-0021-2010-gore-ica` | Ordenanza Regional N° 0021-2010-GORE-ICA: Aprueban la creación de la Dirección Regional de Saneamiento de la Propiedad | 1 | 2010-10-31 to 2010-10-31 |
+| `ordenanza-regional-0019-2010-gore-ica` | Ordenanza Regional N° 0019-2010-GORE-ICA: Aprueban la Modificación del Cuadro de Asignación de Personal -CAP del Hospital de Apoyo de Nasca | 1 | 2010-09-12 to 2010-09-12 |
+| `ordenanza-regional-00012-2010-gore-ica` | Ordenanza Regional N° 00012-2010-GORE ICA: Crean el Consejo Regional del Trabajo y Promoción del Empleo del Gobierno Regional de Ica | 1 | 2010-06-19 to 2010-06-19 |
+| `ordenanza-regional-00010-2010-gore-ica` | Ordenanza Regional N° 00010-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción del Gasoducto Pisco, Ica, Nasca y Marcona | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-00007-2010-gore-ica` | Ordenanza Regional N° 00007-2010-GORE ICA: Declaran de interés regional y de necesidad pública la transferencia de funciones previstas en el Art. 62° de la Ley Orgánica de Gobiernos Regionales a favor del Gobierno Regional de Ica | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-00011-2010-gore-ica` | Ordenanza Regional N° 00011-2010-GORE ICA: Declaran de interés regional y de necesidad pública la transferencia de funciones de los servicios básicos a los entes del Estado y/o concesionarios, dentro de la jurisdicción del distrito de Marcona, provincia de Nasca | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-00009-2010-gore-ica` | Ordenanza Regional N° 00009-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción, Asfaltado y Mantenimiento del Proyecto Corredor Vial Interoceánico Perú - Brasil | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-00008-2010-gore-ica` | Ordenanza Regional N° 00008-2010-GORE ICA: Declaran de interés regional y de necesidad pública la Construcción del Megapuerto de Marcona | 1 | 2010-04-23 to 2010-04-23 |
+| `ordenanza-regional-0021-2009-gore-ica` | Ordenanza Regional N° 0021-2009-GORE-ICA: Declaran de prioridad e interés público la institucionalización de la "técnica del lavado de manos con jabón" | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0015-2008-gore-ica` | Ordenanza Regional N° 0015-2008-GORE-ICA: Autorizan a CRECER ICA extender su ámbito de Intervención a los 33 distritos afectados por el terremoto del 15 de Agosto de 2007 | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0022-2009-gore-ica` | Ordenanza Regional N° 0022-2009-GORE-ICA: Aprueban cuadro de Asignación de Personal de la Red de Salud Chincha-Pisco | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0020-2009-gore-ica` | Ordenanza Regional N° 0020-2009-GORE-ICA: Autorizan a la Dirección Regional de Transportes y Comunicaciones a emitir Licencias de Conducir de la Clase "A" | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0001-2010-gore-ica` | Ordenanza Regional N° 0001-2010-GORE-ICA: Declaran de interés regional y de necesidad pública el fomento, la promoción y el desarrollo de la industria petroquímica | 1 | 2010-03-31 to 2010-03-31 |
+| `ordenanza-regional-0005-2010-gore-ica` | Ordenanza Regional N° 0005-2010-GORE-ICA: Aprueban la adecuación de asignación de funciones de las Gerencias Regionales de Desarrollo Económico y de Desarrollo Social previstas en la Ley N° 27867 | 1 | 2010-03-31 to 2010-03-31 |
+
+The build made 167 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 121 | first version of an act |
+| 167 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 122 laws in the record.
-- 242 tags.
+- 168 laws in the record.
+- 334 tags.
 
 ## Dates
 
@@ -164,7 +216,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `70809d41bb90a43ce1b7aacda55e985988090a51ef1ab9f50c645670b0025dcd` (1738248 bytes).
+- Corpus: sha256 `8100c3e187684d1481bba0b01cb67f00d8d6632d97cc7113f43a5e4ea1b5c6f2` (2232793 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
